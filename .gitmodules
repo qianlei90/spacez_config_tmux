@@ -1,22 +1,22 @@
 [submodule "plugins/tpm"]
 	path = plugins/tpm
-	url = https://git.qianlei.space:30443/mirrors/tpm.git
+	url = https://git.bugfree.show:30443/mirrors/tpm.git
 [submodule "plugins/tmux-sensible"]
 	path = plugins/tmux-sensible
-	url = https://git.qianlei.space:30443/mirrors/tmux-sensible.git
+	url = https://git.bugfree.show:30443/mirrors/tmux-sensible.git
 [submodule "plugins/tmux-prefix-highlight"]
 	path = plugins/tmux-prefix-highlight
-	url = https://git.qianlei.space:30443/mirrors/tmux-prefix-highlight.git
+	url = https://git.bugfree.show:30443/mirrors/tmux-prefix-highlight.git
 [submodule "plugins/tmux-pain-control"]
 	path = plugins/tmux-pain-control
-	url = https://git.qianlei.space:30443/mirrors/tmux-pain-control.git
+	url = https://git.bugfree.show:30443/mirrors/tmux-pain-control.git
 [submodule "plugins/tmux-resurrect"]
 	path = plugins/tmux-resurrect
-	url = https://git.qianlei.space:30443/Barbossa/tmux-resurrect.git
+	url = https://git.bugfree.show:30443/Barbossa/tmux-resurrect.git
 	branch = pr220
 [submodule "plugins/tmux-yank"]
 	path = plugins/tmux-yank
-	url = https://git.qianlei.space:30443/mirrors/tmux-yank.git
+	url = https://git.bugfree.show:30443/mirrors/tmux-yank.git
 [submodule "plugins/tmux-copycat"]
 	path = plugins/tmux-copycat
-	url = https://git.qianlei.space:30443/mirrors/tmux-copycat.git
+	url = https://git.bugfree.show:30443/mirrors/tmux-copycat.git
