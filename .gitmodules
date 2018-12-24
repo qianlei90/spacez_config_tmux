@@ -20,6 +20,3 @@
 [submodule "plugins/tmux-copycat"]
 	path = plugins/tmux-copycat
 	url = https://git.bugfree.show:30443/mirrors/tmux-copycat.git
-[submodule "plugins/tmux-themepack"]
-	path = plugins/tmux-themepack
-	url = https://git.bugfree.show:30443/mirrors/tmux-themepack.git
