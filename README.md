@@ -5,8 +5,9 @@
 ## 一、安装
 
 ```bash
-$ git submodule update --init --recursive
-$ ln -sf `pwd`/tmux.conf ~/.tmux.conf
+$ ./install.sh
+# 使用代理，加速github的插件下载
+$ http_proxy=http://<proxy_host>:<proxy_port> https_proxy=http://<proxy_host>:<proxy_port> ./install.sh
 ```
 
 使用：
