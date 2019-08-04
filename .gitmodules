@@ -1,21 +1,21 @@
 [submodule "plugins/tpm"]
-	path = plugins/tpm
-    url = https://github.com/tmux-plugins/tpm.git
+    path = plugins/tpm
+    url = https://git.bugfree.show:30443/GitHubMirror/tpm.git
 [submodule "plugins/tmux-sensible"]
-	path = plugins/tmux-sensible
-    url = https://github.com/tmux-plugins/tmux-sensible.git
+    path = plugins/tmux-sensible
+    url = https://git.bugfree.show:30443/GitHubMirror/tmux-sensible.git
 [submodule "plugins/tmux-prefix-highlight"]
-	path = plugins/tmux-prefix-highlight
-    url = https://github.com/tmux-plugins/tmux-prefix-highlight.git
+    path = plugins/tmux-prefix-highlight
+    url = https://git.bugfree.show:30443/GitHubMirror/tmux-prefix-highlight.git
 [submodule "plugins/tmux-pain-control"]
-	path = plugins/tmux-pain-control
-    url = https://github.com/tmux-plugins/tmux-pain-control.git
+    path = plugins/tmux-pain-control
+    url = https://git.bugfree.show:30443/GitHubMirror/tmux-pain-control.git
 [submodule "plugins/tmux-resurrect"]
-	path = plugins/tmux-resurrect
-    url = https://github.com/tmux-plugins/tmux-resurrect.git
+    path = plugins/tmux-resurrect
+    url = https://git.bugfree.show:30443/GitHubMirror/tmux-resurrect.git
 [submodule "plugins/tmux-yank"]
-	path = plugins/tmux-yank
-    url = https://github.com/tmux-plugins/tmux-yank.git
+    path = plugins/tmux-yank
+    url = https://git.bugfree.show:30443/GitHubMirror/tmux-yank.git
 [submodule "plugins/tmux-copycat"]
-	path = plugins/tmux-copycat
-    url = https://github.com/tmux-plugins/tmux-copycat.git
+    path = plugins/tmux-copycat
+    url = https://git.bugfree.show:30443/GitHubMirror/tmux-copycat.git
